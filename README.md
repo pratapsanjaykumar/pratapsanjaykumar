@@ -1,10 +1,4 @@
-<img src="https://github.com/pratapsanjaykumar/pratapsanjaysir/blob/main/pratapsanjaysir.jpg?raw=true">
-                                                               
-                                                               
-                                                               
-                                                               ████████████████████████
-                                                               █   Welcome to World   █
-                                                               ████████████████████████
+<img src="https://media.tenor.com/lwZVWkVjG1YAAAAM/welcome.gif">
 
 
 <h1 align="center">Hi 👋, I'm Pratap Sanjay Kumar</h1>
